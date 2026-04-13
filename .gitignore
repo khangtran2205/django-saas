@@ -10,7 +10,7 @@ wheels/
 .venv
 
 # Sqlite
-*.sqlite 
+*.sqlite3 
 
 # IDE 
 .vscodee/
